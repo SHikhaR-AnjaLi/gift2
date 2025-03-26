@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Homemade+Apple&display=swap');
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /* background: radial-gradient(circle, #0d001a, #19002f); */
+  overflow: hidden;
+}
